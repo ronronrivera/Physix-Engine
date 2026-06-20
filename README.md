@@ -13,8 +13,8 @@ A 2.5D physics sandbox built from scratch in C++ and OpenGL. 2D rigid body simul
 
 ### **Phase 2: Dear ImGui Shell**
 - [x] ImGui GLFW + OpenGL3 backends
-- [x] Blender-inspired layout — left panel, viewport, right panel, bottom bar
-- [x] Framebuffer Object — physics scene renders into ImGui viewport as a texture
+- [ ] Blender-inspired layout — left panel, viewport, right panel, bottom bar
+- [ ] Framebuffer Object — physics scene renders into ImGui viewport as a texture
 
 ### **Phase 3: 2D Render Abstraction**
 - [ ] Vertex + fragment shaders (flat, debug, terrain, fluid)
